@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Everything the scripts write
+outputs/
+
+# UNECE WLTP DHC document; download it as described in README.md
+data/inputs/WLTP-DHC-12-07e.xls

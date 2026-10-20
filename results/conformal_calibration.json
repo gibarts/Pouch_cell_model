@@ -1,0 +1,261 @@
+{
+  "OF1_Specific_Energy_[Wh/kg]": {
+    "q_global": 1.8612391844144611,
+    "by_condition": {
+      "CT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.4139292679690136,
+        "coverage_default": 0.96,
+        "coverage_global_conformal": 0.96,
+        "coverage_grouped_conformal": 0.99
+      },
+      "CT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 1.7504961978026587,
+        "coverage_default": 0.93,
+        "coverage_global_conformal": 0.93,
+        "coverage_grouped_conformal": 0.91
+      },
+      "NT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.0427280242842034,
+        "coverage_default": 0.94,
+        "coverage_global_conformal": 0.94,
+        "coverage_grouped_conformal": 0.94
+      },
+      "NT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.4139292679690136,
+        "coverage_default": 0.95,
+        "coverage_global_conformal": 0.95,
+        "coverage_grouped_conformal": 0.99
+      }
+    }
+  },
+  "OF2_US06_Thermal_Gradient_[K]": {
+    "q_global": 2.997899960746295,
+    "by_condition": {
+      "CT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.4977532578017287,
+        "coverage_default": 0.95,
+        "coverage_global_conformal": 0.98,
+        "coverage_grouped_conformal": 0.98
+      },
+      "CT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 3.5764321443684315,
+        "coverage_default": 0.91,
+        "coverage_global_conformal": 0.95,
+        "coverage_grouped_conformal": 0.96
+      },
+      "NT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.3016176865710603,
+        "coverage_default": 0.94,
+        "coverage_global_conformal": 0.96,
+        "coverage_grouped_conformal": 0.94
+      },
+      "NT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 4.82717572923843,
+        "coverage_default": 0.84,
+        "coverage_global_conformal": 0.95,
+        "coverage_grouped_conformal": 0.98
+      }
+    }
+  },
+  "OF2_WLTP_Thermal_Gradient_[K]": {
+    "q_global": 2.9004207208729396,
+    "by_condition": {
+      "CT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.101896087271656,
+        "coverage_default": 0.92,
+        "coverage_global_conformal": 0.97,
+        "coverage_grouped_conformal": 0.92
+      },
+      "CT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 4.601229335522644,
+        "coverage_default": 0.87,
+        "coverage_global_conformal": 0.94,
+        "coverage_grouped_conformal": 0.98
+      },
+      "NT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.8396672383635293,
+        "coverage_default": 0.94,
+        "coverage_global_conformal": 0.98,
+        "coverage_grouped_conformal": 0.98
+      },
+      "NT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 4.263250399729863,
+        "coverage_default": 0.89,
+        "coverage_global_conformal": 0.93,
+        "coverage_grouped_conformal": 0.95
+      }
+    }
+  },
+  "OF2_WLTP_FastCharge_Thermal_Gradient_[K]": {
+    "q_global": 2.964016070407199,
+    "by_condition": {
+      "CT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.1804324076369586,
+        "coverage_default": 0.94,
+        "coverage_global_conformal": 0.96,
+        "coverage_grouped_conformal": 0.95
+      },
+      "CT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 5.267099523813256,
+        "coverage_default": 0.85,
+        "coverage_global_conformal": 0.92,
+        "coverage_grouped_conformal": 0.98
+      },
+      "NT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 2.905228639927973,
+        "coverage_default": 0.95,
+        "coverage_global_conformal": 0.97,
+        "coverage_grouped_conformal": 0.97
+      },
+      "NT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 3.7010627504479343,
+        "coverage_default": 0.87,
+        "coverage_global_conformal": 0.92,
+        "coverage_grouped_conformal": 0.93
+      }
+    }
+  },
+  "OF3_US06_Peak_Swelling_[m]": {
+    "q_global": 0.01004385206002683,
+    "by_condition": {
+      "CT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.011975913187152399,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.99,
+        "coverage_grouped_conformal": 0.99
+      },
+      "CT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.010785390243319372,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.96,
+        "coverage_grouped_conformal": 0.97
+      },
+      "NT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.010121127537128086,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.93,
+        "coverage_grouped_conformal": 0.93
+      },
+      "NT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.01002284078177989,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.92,
+        "coverage_grouped_conformal": 0.91
+      }
+    }
+  },
+  "OF3_WLTP_Peak_Swelling_[m]": {
+    "q_global": 0.024760167563497727,
+    "by_condition": {
+      "CT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.0294836490480234,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.99,
+        "coverage_grouped_conformal": 0.99
+      },
+      "CT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.02336882863643885,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.97,
+        "coverage_grouped_conformal": 0.97
+      },
+      "NT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.026219343202747925,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.95,
+        "coverage_grouped_conformal": 0.96
+      },
+      "NT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.02627140174354101,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.96,
+        "coverage_grouped_conformal": 0.96
+      }
+    }
+  },
+  "OF3_WLTP_FastCharge_Peak_Swelling_[m]": {
+    "q_global": 0.04083569606441964,
+    "by_condition": {
+      "CT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.04153532429025414,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.95,
+        "coverage_grouped_conformal": 0.97
+      },
+      "CT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.04326618581679069,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.98,
+        "coverage_grouped_conformal": 0.99
+      },
+      "NT_Surface": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.049789148557357964,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.98,
+        "coverage_grouped_conformal": 0.98
+      },
+      "NT_Tab": {
+        "n_calib": 100,
+        "n_val": 100,
+        "q_group": 0.051597715949920776,
+        "coverage_default": 1.0,
+        "coverage_global_conformal": 0.99,
+        "coverage_grouped_conformal": 0.99
+      }
+    }
+  }
+}

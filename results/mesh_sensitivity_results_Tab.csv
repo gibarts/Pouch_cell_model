@@ -1,0 +1,5 @@
+geometry,cell_w_m,cell_h_m,mesh_level,y_nodes,z_nodes,thermal_grad_K,solve_time_s,pct_change_vs_baseline
+small (0.10m x 0.05m),0.1,0.05,"baseline (production, y=10 z=4)",10,4,0.44324834887714815,11.230461359024048,0.0
+small (0.10m x 0.05m),0.1,0.05,refined 2x (y=20 z=8),20,8,0.4367348367420618,121.34165000915527,-1.4694949573047664
+large (0.60m x 0.30m),0.6,0.3,"baseline (production, y=10 z=4)",10,4,1.6833189436553653,10.740981101989746,0.0
+large (0.60m x 0.30m),0.6,0.3,refined 2x (y=20 z=8),20,8,1.7662452215650433,118.77630615234375,4.926355651270798

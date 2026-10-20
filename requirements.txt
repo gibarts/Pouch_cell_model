@@ -1,0 +1,13 @@
+# Versions used to produce the published results (Python 3.12).
+pybamm==25.8.0
+casadi==3.6.7
+pybammsolvers==0.1.0
+botorch==0.18.1
+gpytorch==1.15.2
+torch==2.7.1
+SALib==1.5.2
+scikit-learn==1.8.0
+scipy==1.16.1
+numpy==2.4.6
+pandas==2.3.1
+xlrd==2.0.2

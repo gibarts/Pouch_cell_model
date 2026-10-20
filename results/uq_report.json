@@ -1,0 +1,261 @@
+{
+  "OF1_Specific_Energy_[Wh/kg]": {
+    "mahalanobis_vs_abs_z_spearman": {
+      "rho": 0.04418060451511288,
+      "p": 0.21193153191598244
+    },
+    "coverage95_by_mahalanobis_quartile": {
+      "Q1": 0.98,
+      "Q2": 0.94,
+      "Q3": 0.96,
+      "Q4": 0.92
+    },
+    "by_condition": {
+      "CT_Surface": {
+        "n": 200,
+        "coverage95": 0.95,
+        "rmse": 0.0924
+      },
+      "CT_Tab": {
+        "n": 200,
+        "coverage95": 0.95,
+        "rmse": 0.0924
+      },
+      "NT_Surface": {
+        "n": 200,
+        "coverage95": 0.95,
+        "rmse": 0.0924
+      },
+      "NT_Tab": {
+        "n": 200,
+        "coverage95": 0.95,
+        "rmse": 0.0924
+      }
+    },
+    "nlpd": -1.3098147630862094,
+    "pit_ks_stat": 0.08718135200821253,
+    "pit_ks_p": 9.701035638693501e-06
+  },
+  "OF2_US06_Thermal_Gradient_[K]": {
+    "mahalanobis_vs_abs_z_spearman": {
+      "rho": -0.17268491848343112,
+      "p": 8.942435583263893e-07
+    },
+    "coverage95_by_mahalanobis_quartile": {
+      "Q1": 0.905,
+      "Q2": 0.865,
+      "Q3": 0.91,
+      "Q4": 0.92
+    },
+    "by_condition": {
+      "CT_Surface": {
+        "n": 200,
+        "coverage95": 0.945,
+        "rmse": 0.0024
+      },
+      "CT_Tab": {
+        "n": 200,
+        "coverage95": 0.865,
+        "rmse": 0.0035
+      },
+      "NT_Surface": {
+        "n": 200,
+        "coverage95": 0.94,
+        "rmse": 0.0026
+      },
+      "NT_Tab": {
+        "n": 200,
+        "coverage95": 0.85,
+        "rmse": 0.0039
+      }
+    },
+    "nlpd": -4.162549783616214,
+    "pit_ks_stat": 0.03652389384038601,
+    "pit_ks_p": 0.23057699726976133
+  },
+  "OF2_WLTP_Thermal_Gradient_[K]": {
+    "mahalanobis_vs_abs_z_spearman": {
+      "rho": -0.14744886456535716,
+      "p": 2.8283037344557724e-05
+    },
+    "coverage95_by_mahalanobis_quartile": {
+      "Q1": 0.9,
+      "Q2": 0.86,
+      "Q3": 0.935,
+      "Q4": 0.895
+    },
+    "by_condition": {
+      "CT_Surface": {
+        "n": 200,
+        "coverage95": 0.93,
+        "rmse": 0.0021
+      },
+      "CT_Tab": {
+        "n": 200,
+        "coverage95": 0.86,
+        "rmse": 0.0033
+      },
+      "NT_Surface": {
+        "n": 200,
+        "coverage95": 0.94,
+        "rmse": 0.0022
+      },
+      "NT_Tab": {
+        "n": 200,
+        "coverage95": 0.86,
+        "rmse": 0.0036
+      }
+    },
+    "nlpd": -4.2467525329769735,
+    "pit_ks_stat": 0.05982186338068729,
+    "pit_ks_p": 0.006247395521112823
+  },
+  "OF2_WLTP_FastCharge_Thermal_Gradient_[K]": {
+    "mahalanobis_vs_abs_z_spearman": {
+      "rho": -0.08382955086697864,
+      "p": 0.017714813192639376
+    },
+    "coverage95_by_mahalanobis_quartile": {
+      "Q1": 0.89,
+      "Q2": 0.89,
+      "Q3": 0.94,
+      "Q4": 0.88
+    },
+    "by_condition": {
+      "CT_Surface": {
+        "n": 200,
+        "coverage95": 0.95,
+        "rmse": 0.0666
+      },
+      "CT_Tab": {
+        "n": 200,
+        "coverage95": 0.85,
+        "rmse": 0.1086
+      },
+      "NT_Surface": {
+        "n": 200,
+        "coverage95": 0.94,
+        "rmse": 0.0746
+      },
+      "NT_Tab": {
+        "n": 200,
+        "coverage95": 0.86,
+        "rmse": 0.117
+      }
+    },
+    "nlpd": -0.818336988159706,
+    "pit_ks_stat": 0.06876382693845573,
+    "pit_ks_p": 0.0009837266918547587
+  },
+  "OF3_US06_Peak_Swelling_[m]": {
+    "mahalanobis_vs_abs_z_spearman": {
+      "rho": 0.27965930799438726,
+      "p": 7.696365067670649e-16
+    },
+    "coverage95_by_mahalanobis_quartile": {
+      "Q1": 1.0,
+      "Q2": 1.0,
+      "Q3": 1.0,
+      "Q4": 1.0
+    },
+    "by_condition": {
+      "CT_Surface": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "CT_Tab": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "NT_Surface": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "NT_Tab": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      }
+    },
+    "nlpd": -11.863180741810975,
+    "pit_ks_stat": 0.49221854464654485,
+    "pit_ks_p": 2.3211686135048506e-179
+  },
+  "OF3_WLTP_Peak_Swelling_[m]": {
+    "mahalanobis_vs_abs_z_spearman": {
+      "rho": 0.28180752402552894,
+      "p": 4.530779966300488e-16
+    },
+    "coverage95_by_mahalanobis_quartile": {
+      "Q1": 1.0,
+      "Q2": 1.0,
+      "Q3": 1.0,
+      "Q4": 1.0
+    },
+    "by_condition": {
+      "CT_Surface": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "CT_Tab": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "NT_Surface": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "NT_Tab": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      }
+    },
+    "nlpd": -12.440991298863214,
+    "pit_ks_stat": 0.48515605043520954,
+    "pit_ks_p": 6.280524297478382e-174
+  },
+  "OF3_WLTP_FastCharge_Peak_Swelling_[m]": {
+    "mahalanobis_vs_abs_z_spearman": {
+      "rho": 0.3240027094332325,
+      "p": 5.217233743676516e-21
+    },
+    "coverage95_by_mahalanobis_quartile": {
+      "Q1": 1.0,
+      "Q2": 1.0,
+      "Q3": 1.0,
+      "Q4": 1.0
+    },
+    "by_condition": {
+      "CT_Surface": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "CT_Tab": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "NT_Surface": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      },
+      "NT_Tab": {
+        "n": 200,
+        "coverage95": 1.0,
+        "rmse": 0.0
+      }
+    },
+    "nlpd": -10.593873163855438,
+    "pit_ks_stat": 0.4771526632408115,
+    "pit_ks_p": 6.793917800451089e-168
+  }
+}
