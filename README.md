@@ -1,7 +1,7 @@
-# Surrogate-based design of large-format CTP pouch cells
+# Surrogate-based design of large-format pouch cells
 
 This repository contains the dataset and Python code for the article *Surrogate-Based
-Multi-Objective Design of Large-Format CTP Pouch Cells: Sensitivity Analysis and Conformal
+Multi-Objective Design of Large-Format Pouch Cells: Sensitivity Analysis and Conformal
 Uncertainty Quantification Across Fast-Charge and Drive-Cycle Conditions*.
 
 The workflow generates 800 two-dimensional PyBaMM simulation cases (200 cell geometries
